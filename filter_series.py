@@ -5,7 +5,7 @@ import csv
 filenum = 0
 x = 0
 n = 80
-dir = '/home/n.deryugin@dev.braingarden.ai/Downloads/DICOM-20220328T140837Z-001/DICOM/PA000000/ST000000'
+dir = '/dir/path'
 tree = []
 eighty_studies = []
 good_massive = []
